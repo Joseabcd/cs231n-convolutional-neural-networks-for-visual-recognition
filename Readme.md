@@ -1,0 +1,1 @@
+My solutions to the assignments of the course CS231n, which were open-sourced by the department of CS from Stanford in their website (thanks!)
